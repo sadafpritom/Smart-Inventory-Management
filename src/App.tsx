@@ -3,7 +3,7 @@ import { Header } from './components/layout/Header';
 import { LoginPage } from './components/auth/LoginPage';
 import { LandingPage } from './components/home/LandingPage';
 import { InventoryTable } from './components/inventory/InventoryTable';
-import { WarehouseLogs } from './components/logs/WarehouseLogs';
+import { WarehouseLogs } from '@/components/logs/WarehouseLogs';
 import { Reports } from './components/reports/Reports';
 import { KPICard } from './components/dashboard/KPICard';
 import { useInventoryData } from './hooks/useInventoryData';
